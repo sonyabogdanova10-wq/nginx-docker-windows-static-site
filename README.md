@@ -28,7 +28,7 @@ nginx-static/
 ## Запуск контейнера через:
  docker compose up -d   
 
-## [Ссылка на видео в Google Disk] 
+## [Ссылка на видео на Google диске] :
 ## https://drive.google.com/file/d/1RH94VKs2xbVcgc2GAGha7t5YFLakA85V/view?usp=drive_link
 
 В видео демонстрируется:
